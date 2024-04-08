@@ -10,18 +10,25 @@ This is a simple web API to access information about pokemons
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, JavaScript, Node.js, Express
+Hosting: Render
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
+I created three mock pokemons that anybody accors the world can access
+I used express to handle the requests and the responses on my server-side code
+I handled different possible request that the user could make
 ## Optimizations
-*(optional)*
+Caching: Implement caching mechanisms to store frequently accessed data in memory or on disk, reducing the need to fetch data repeatedly from the database or external APIs.
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Minification and Compression: Minify your JavaScript and CSS files to reduce their size, and enable compression to reduce the size of responses sent over the network, improving load times.
 
+Load Balancing: Deploy your API across multiple servers and use load balancing techniques to distribute incoming requests evenly, ensuring optimal performance and reliability, especially during periods of high traffic.
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Technical Skills: Reflect on the new technical skills you acquired during the development of the API. For example, you might have improved your proficiency in JavaScript, Node.js, Express, or gained a better understanding of RESTful API design principles.
+
+Problem-Solving: Discuss the challenges you encountered while building the API and how you overcame them. This could include debugging issues, resolving conflicts, or finding creative solutions to complex problems.
+
+API Design: Share your insights into designing and implementing a user-friendly and intuitive API interface. Discuss the decisions you made regarding endpoint structure, request and response formats, and error handling strategies.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
