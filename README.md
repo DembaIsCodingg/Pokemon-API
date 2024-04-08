@@ -30,14 +30,5 @@ Problem-Solving: Discuss the challenges you encountered while building the API a
 
 API Design: Share your insights into designing and implementing a user-friendly and intuitive API interface. Discuss the decisions you made regarding endpoint structure, request and response formats, and error handling strategies.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
 
 
